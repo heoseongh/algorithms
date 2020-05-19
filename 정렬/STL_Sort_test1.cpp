@@ -6,8 +6,8 @@ using namespace std;
 int main(void){
 	int arr[5] = {5, 4, 3, 2, 1};
 	sort(arr, arr + 5);
-	for(int i = 0; i < 10; i++){
-		cout << a[i] << ' ';
+	for(int i = 0; i < 5; i++){
+		cout << arr[i] << ' ';
 	}
 }
 //sort(arr, arr + 4)가 아닌 이유
