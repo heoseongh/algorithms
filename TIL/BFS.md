@@ -5,6 +5,7 @@
  - 필수 개념 : Queue -> 먼저 들어온 것을 먼저 처리한다는 점 활용.
 
 # 과정
+### 1~7까지 max heap tree 라고 가정
 1. Start Node를 큐에 삽입하면서 시작
  > q.push(start);
 
